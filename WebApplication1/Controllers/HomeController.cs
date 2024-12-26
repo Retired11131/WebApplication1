@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using WebApplication1.Models;
 
+//Tester deemed this project unredeemable 
 namespace WebApplication1.Controllers
 {
     public class HomeController : Controller
